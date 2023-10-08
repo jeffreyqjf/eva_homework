@@ -1,0 +1,6 @@
+第六题不知道是自己构建wsgi还是说可以用其他的框架，如果是其他的框架，如Flask，可能比较容易
+在装饰器里面可以设置methods来解决get post方式的访问
+https://github.com/jeffreyqjf/Flask.git 这个是我自己写的基于flask框架的网站
+他的展示页面可以访问我的bilibili 
+https://www.bilibili.com/video/BV1N24y1d7sJ/?share_source=copy_web&vd_source=66e86fb10cf3aa0a5c5e15773bad279c
+相关的简易版本网站在 http://jeffreying.pythonanywhere.com/ 
