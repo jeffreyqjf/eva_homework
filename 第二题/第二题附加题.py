@@ -27,8 +27,8 @@ with open(filename) as file:
     print(f"Para Count: {para_count}\n")
     print(f"EVA Count: {eva_appear}\n")
     print('Word Freq:\n')
-    for key, value in Word_Freq:
-        print(f"{key}.", value)
+    for key in Word_Freq:
+        print(f"{key}.", Word_Freq[key])
 
 
 
